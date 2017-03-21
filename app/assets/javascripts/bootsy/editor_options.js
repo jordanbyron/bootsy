@@ -16,6 +16,7 @@
         "wysiwyg-float-inline": 1
       },
       tags: {
+        p: {},
         cite: {
           check_attributes: {
             title: "alt"
